@@ -1,6 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Orbitron:400,500,900,700);
 body {
-  cursor: url('/Images/hand.png'),auto;
+  cursor: url('./Images/hand.png'),auto;
 }
 #title-container { /*whole picture*/
   padding: 10px;
@@ -13,7 +13,7 @@ body {
   padding: 10px;
   width: 1200px;
   height: 720px;
-  background-image: url('/Images/bg.jpg');
+  background-image: url('./Images/bg.jpg');
   background-repeat: no-repeat;
   position: absolute;
   top: 18px;
